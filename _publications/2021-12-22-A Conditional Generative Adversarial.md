@@ -1,5 +1,5 @@
 ---
-title: "[2]. Conditional Generative Adversarial Network-Based Image Denoising for Defending Against Adversarial Attack"
+title: "[2] Conditional Generative Adversarial Network-Based Image Denoising for Defending Against Adversarial Attack"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-12-22-A Conditional Generative Adversarial
