@@ -9,6 +9,7 @@ redirect_from:
 
 I am an Assistant Professor at the [Department of Artificial Intelligence](https://ai.iizuka.kyutech.ac.jp/) at [Kyushu Institute of Technology](https://www.kyutech.ac.jp/), Japan. I am affiliated with [Prof. Saitoh Takeshi's Laboratory](https://www.saitoh-lab.com/index.html).
 
+
 Education
 ======
 **Bachelor's Degree (2011-2015):**
@@ -22,6 +23,7 @@ Cyber Security Engineering, [Viterbi School of Engineering](https://viterbischoo
 Informatics, [Kyushu University](https://www.kyushu-u.ac.jp/en/), Japan 
 (under the supervision of [Prof. Kouichi Sakurai](https://hyoka.ofc.kyushu-u.ac.jp/html/100021264_en.html))
 
+
 Research Interests
 ======
 Machine Learning Security
@@ -31,6 +33,7 @@ Adversarial Attacks and Defenses
 Image Recognition and Processing
 
 Machine Learning and Unlearning
+
 
 Honors
 ======
@@ -43,6 +46,7 @@ Sept. 2014 -- Outstanding student leader, Anhui University
 Oct. 2014 -- Chinese College Students Entrepreneur Award (Group Award), China National Computer Congress 
 
 March 2024 -- Outstanding student award, Kyushu University 
+
 
 Contact me
 ======
