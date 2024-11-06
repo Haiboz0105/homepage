@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Haibo Zhang"
-description              : &description "In the vast ballet of the cosmos, no two stars dance along the same celestial path."
+description              : &description 
 url                      : https://Haiboz0105.github.io/homepage
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Haiboz0105.github.io/homepage"
@@ -22,13 +22,13 @@ repository               : "Haiboz0105.github.io/homepage"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Haibo Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "In the vast ballet of the cosmos, no two stars dance along the same celestial path."
+  location         : "Japan"
+  employer         : "Kyushu Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "haiboz0105@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
