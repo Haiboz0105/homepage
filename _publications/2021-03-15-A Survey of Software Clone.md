@@ -1,5 +1,5 @@
 ---
-title: "1. A Survey of Software Clone Detection From Security Perspective"
+title: "[1] A Survey of Software Clone Detection From Security Perspective"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-03-15-A Survey of Software Clone
