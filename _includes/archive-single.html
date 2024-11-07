@@ -1,4 +1,4 @@
-<article class="archive__item" style="width: 110%; max-width: 110%;" itemscope itemtype="http://schema.org/CreativeWork">
+<article class="archive__item" style="width: 110%; max-width: 105%;" itemscope itemtype="http://schema.org/CreativeWork">
 
 {% include base_path %}
 
@@ -30,7 +30,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
   {% if post.link %}
-    {{ title }} <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+    {{ title }} #<a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
   {% else %}
     {{ title }}
   {% endif %}
