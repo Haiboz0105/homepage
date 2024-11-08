@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Haibo Zhang"
 description              : &description 
 url                      : https://Haiboz0105.github.io/homepage
-baseurl                  : "https://researchmap.jp/zhanghaibo?lang=en" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Haiboz0105.github.io/homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
