@@ -1,5 +1,5 @@
 ---
-title: "[5] LGNMNet-RF: Micro-Expression Detection Using Motion History Images"
+title: "[6] LGNMNet-RF: Micro-Expression Detection Using Motion History Images"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-11-01-LGNMNet-RF
