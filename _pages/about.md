@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [Department of Artificial Intelligence](https://ai.iizuka.kyutech.ac.jp/) at [Kyushu Institute of Technology](https://www.kyutech.ac.jp/), Japan. I am affiliated with [Prof. Saitoh Takeshi's Laboratory](https://www.saitoh-lab.com/index.html).
+I am an Assistant Professor at the [Department of Artificial Intelligence](https://hyokadb02.jimu.kyutech.ac.jp/html/100001768_en.html) at [Kyushu Institute of Technology](https://www.kyutech.ac.jp/), Japan. I am affiliated with [Prof. Saitoh Takeshi's Laboratory](https://www.saitoh-lab.com/index.html).
 
 
 Education
