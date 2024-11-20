@@ -17,7 +17,7 @@ Informatics, [Kyushu University](https://www.kyushu-u.ac.jp/en/), Japan
 (under the supervision of [Prof. Kouichi Sakurai](https://hyoka.ofc.kyushu-u.ac.jp/html/100021264_en.html))
 
 **Master's Degree (2016-2018):**
-Cyber Security Engineering, [Viterbi School of Engineering](https://viterbischool.usc.edu/),  [University of Southern California](https://www.usc.edu/), the United States 
+Cyber Security Engineering, [University of Southern California](https://www.usc.edu/), the United States 
 (under the supervision of [Prof. Clifford Neuman](https://viterbi.usc.edu/directory/faculty/Neuman/B))
 
 **Bachelor's Degree (2011-2015):**
