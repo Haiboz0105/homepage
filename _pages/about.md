@@ -26,9 +26,7 @@ Software Engineering, [Anhui University](https://en.ahu.edu.cn/), China
 
 Research Interests
 ======
-Machine Learning Security
-
-Adversarial Attacks and Defenses
+Stability of Machine Learning/Deep Learning
 
 Image Recognition and Processing
 
@@ -39,11 +37,7 @@ Honors
 ======
 Oct. 2012 -- Excellent member, Summer Social Practice, Anhui University
 
-Aug. 2014 -- Excellent Group Award, the 3rd China Innovative & Entrepreneurship Competition Committee
-
 Sept. 2014 -- Outstanding student leader, Anhui University
-
-Oct. 2014 -- Chinese College Students Entrepreneur Award (Group Award), China National Computer Congress 
 
 March 2024 -- Outstanding student award, Kyushu University 
 
